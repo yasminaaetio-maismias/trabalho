@@ -1,7 +1,7 @@
-trabalho cbjr
-
+trabalho
+<html lang="pt-br">
 <head>
-    < charset="UTF-8">
+    <meta charset="UTF-8">
     <title>Blog Oficial — Tributo ao Charlie Brown Jr.</title>
     <style>
         /* Minha estilização geral com fundo preto */
@@ -79,3 +79,4 @@ trabalho cbjr
 
 </body>
 </html>
+
