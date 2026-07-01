@@ -69,8 +69,8 @@
         <p>O som do CBJR é atemporal. Entre os maiores sucessos que todo mundo sabe cantar de cor, separei estes na minha lista:</p>
         <ul>
             <li>🔹 <em>Só os Loucos Sabem</em></li>
-            <li>🔹 <em>Dias de Luta, Dias de Glória</em></li>
-            <li>🔹 <em>Proibida pra Mim</em></li>
+            <li>🔹 <em>Lugar ao sol</em></li>
+            <li>🔹 <em>hoje sou eu que não mais te quero</em></li>
             <li>🔹 <em>Céu Azul</em></li>
         </ul>
 
