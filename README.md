@@ -1,6 +1,7 @@
-trabalho cbjr 
+trabalho cbjr
+
 <head>
-    <meta charset="UTF-8">
+    < charset="UTF-8">
     <title>Blog Oficial — Tributo ao Charlie Brown Jr.</title>
     <style>
         /* Minha estilização geral com fundo preto */
@@ -11,7 +12,7 @@ trabalho cbjr
             margin: 20px;
         }
 
-        /* Dica de Web Design: Centralizando a imagem do mascote/banda */
+        /* Dica de Web Design: Como centralizar imagens com CSS */
         img {
             width: 400px;
             height: 400px;
@@ -45,30 +46,29 @@ trabalho cbjr
 </head>
 <body>
 
-    <header>
-        <!-- Topo do site: Nome do blog e introdução do tema -->
+    <header> /* Topo do site: Nome do blog e introdução do tema */
         <h1>Marginal Alado: O Legado do Charlie Brown Jr.</h1>
         <p>Um espaço dedicado à maior banda de skate rock do Brasil. Letras marcantes, energia no palco e a eterna voz de Chorão.</p>
     </header>
 
-    <main>
-        <!-- Imagem temática centralizada usando o CSS do guia -->
-        <img src="https://unsplash.com" alt="Pista de skate representando o estilo do Charlie Brown Jr.">
-        
+    <main> /* Conteúdo principal: Imagem ilustrativa e os 3 posts */
+        <!-- Imagem oficial inserida com o link funcional da foto enviada -->
+        <img src="https://googleusercontent.com" alt="Logo Oficial Charlie Brown Jr. em textura de asfalto">
+
         <!-- Quebra de linha simples exigida no resumo de códigos -->
         <br>
 
         <!-- Post 1: História da Banda -->
         <h2>🛹 1. De Santos para o Mundo</h2>
-        <p>Nascida na cidade de Santos na década de 1990, a banda misturou o peso do <strong>rock, hardcore, reggae e rap</strong> com a cultura do skate. Comandada pelo vocalista Chorão e pelo baixista Champignon, as músicas viraram hinos de gerações.</p>
+        <p>Nascida na cidade de Santos na década de 1990, a banda misturou o peso do <strong>rock, hardcore, reggae e rap</strong> com a cultura do skate. Comandada pelo vocalista Chorão e pelo baixista Champignon, as músicas viraram hinos de generations.</p>
 
         <!-- Post 2: Principais Sucessos -->
         <h2>🎵 2. Músicas que Marcaram Época</h2>
         <p>O som do CBJR é atemporal. Entre os maiores sucessos que todo mundo sabe cantar de cor, separei estes na minha lista:</p>
         <ul>
             <li>🔹 <em>Só os Loucos Sabem</em></li>
-            <li>🔹 <em>Lugar ao sol</em></li>
-            <li>🔹 <em>hoje sou eu que não mais te quero</em></li>
+            <li>🔹 <em>Lugar ao Sol</em></li>
+            <li>🔹 <em>Hoje Sou Eu Que Não Mais Te Quero</em></li>
             <li>🔹 <em>Céu Azul</em></li>
         </ul>
 
